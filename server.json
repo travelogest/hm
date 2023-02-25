@@ -1,0 +1,37 @@
+[
+   {
+    "country": "Japan Server 5",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_219.100.37.23_udp_1195.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+   {
+    "country": "Japan Server 4",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_115.162.94.61_udp_1381.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+  {
+    "country": "Japan  Server 3",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_219.100.37.194_udp_1195.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+  {
+    "country": "Japan Server 2",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_219.100.37.194_udp_1195.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  },
+  {
+    "country": "Japan Server 1",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_126.12.189.94_udp_1580.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  }
+]
