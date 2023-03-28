@@ -1,5 +1,12 @@
 [
 {
+    "country": "Japan Server 13",
+    "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
+    "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_219.100.37.219_udp_1195.ovpn",
+    "ovpnUserName": "vpn",
+    "ovpnUserPassword": "vpn"
+  }, 
+{
     "country": "Japan Server 12",
     "flagUrl": "https://raw.githubusercontent.com/yammadev/flag-icons/master/png/JP@3x.png",
     "ovpn": "https://raw.githubusercontent.com/travelogest/hm/main/vpngate_160.86.95.149_udp_1743.ovpn",
